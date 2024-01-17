@@ -16,9 +16,7 @@ The Text Editor is a progressive web application (PWA) that runs in the browser,
 - [Questions](#questions)
 
 ## Installation
-To install the necessary dependencies, run the following command:
-```bash
-npm install
+To install the necessary dependencies, run the following command: npm install
 
 ## Usage
 To use this application, follow these steps:
